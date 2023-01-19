@@ -1,0 +1,29 @@
+{
+    "lembretes":
+    [
+        {
+            "id": 1,
+            "nome": "Fazer arroz",
+            "descricao": "Não esquece de por alho",
+            "dt_lembrete": "2023-01-15"
+        },
+        {
+            "id": 2,
+            "nome": "Fazer feijão",
+            "descricao": "Não esquece de por de molho",
+            "dt_lembrete": "2023-01-13"
+        },
+        {
+            "id": 3,
+            "nome": "Comprar farinha",
+            "descricao": "No mercado mais próxima",
+            "dt_lembrete": "2023-01-15"
+        },
+        {
+            "id": 4,
+            "nome": "Fazer a carne",
+            "descricao": "Colocar pimetão",
+            "dt_lembrete": "2023-01-16"
+        }
+    ]
+}
